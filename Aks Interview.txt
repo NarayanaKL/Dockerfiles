@@ -1,0 +1,50 @@
+K8 
+Deployments
+--Kind types 4 --statefull set importent
+Services
+--cluster IP Node port load balancer
+
+Tainess and tolarence  node selecter
+
+RBAC
+
+HPA VPA --HPA important
+
+Storage classes-PV PVC
+
+Configmap Secrents
+Liveness prob and redines Prob
+
+Ingress
+
+TLS
+
+------------------------------------------------------------
+
+Crash loop --if traffics comes more 
+image pull back-Authentication issue
+
+pending un scheduling-Authentication or trffic issue
+OOM-Killed statues
+
+Crash loop :-
+DNS issues
+N/w issues Upgrade Isssues
+Authentication issues Memonry issues
+
+Issolating all the DNS N/w isssues
+Error codes
+400
+-401
+-403
+404
+429
+500
+-502
+-504
+
+
+Exit codes:-
+
+Memory issues-- 
+
