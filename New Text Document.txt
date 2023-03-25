@@ -1,0 +1,7 @@
+working knowledge oin deploying CI/CD system using Azure DevOps on kubernetes container Environment and for the runtime environment
+of CI/CD system to build test and deployment we have utilized kubernetes and docker.
+structured cluster Autoscaler for Azure kubernetes services(AKS) by using ARM template and worked with scheduling deploying,
+and nanaging pods and replics in aks
+Developed and maintained Continues Integration (CI) using tool in Azure DevOps(VSTS) spanning multiple environment enabling teams to safly
+deploy code in Azure Kubernetes Services (AKS)
+Managing the 
